@@ -3,7 +3,7 @@ Testing Avanzado Argentina Programa
 
 # Trabajo Final:
 
-https://drive.google.com/file/d/1oVvdwO7Ff5uSd1MFN-_zR0yU8XhGmA-F/view?usp=drive_link
+[![qr-code-mini.png](https://i.postimg.cc/m2zXBfkC/qr-code-mini.png)](https://postimg.cc/8jGBmYhz)
 
 [![Etapa-2-Herramientas-de-testing-TRABAJO-INTEGRADOR.png](https://i.postimg.cc/VvCrh6N7/Etapa-2-Herramientas-de-testing-TRABAJO-INTEGRADOR.png)](https://postimg.cc/ctdLgdwY)
 
